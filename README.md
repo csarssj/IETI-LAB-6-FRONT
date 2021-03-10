@@ -16,7 +16,7 @@ Debes seguir el C√≥digo de honor del ingeniero de sistemas para defender el est√
 _Fecha : 9 de Marzo del 2021_ 
 # Despliegue Firebase
 
-[![Deploy](https://ieti-lab6-d4138.web.app/)
+https://ieti-lab6-d4138.web.app/
 
 # Getting Started with Create React App
 
